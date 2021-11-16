@@ -4,30 +4,13 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
   transition: all 0.5s;
-  /* scrollbar-width: none; */
 }
-
-/* .body {
-  min-height: 3000px;
-} */
-/* 
-.about {
-  margin-top: 7rem;
-} */
 
 .home {
   margin-top: 10rem;
   margin-bottom: 15rem;
-  /* padding-top: 6rem; */
-  /* padding-bottom: 15rem; */
-  /* padding: 2rem 1rem; */
   background-color: white;
 }
-
-/* .about { */
-/* padding-top: 5rem; */
-/* padding-bottom: 5rem; */
-/* } */
 
 section {
   padding-top: 5rem;
