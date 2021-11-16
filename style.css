@@ -4,7 +4,7 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
   transition: all 0.5s;
-  scrollbar-width: none;
+  /* scrollbar-width: none; */
 }
 
 /* .body {
